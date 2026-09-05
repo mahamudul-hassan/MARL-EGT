@@ -1,0 +1,2 @@
+profile,n_runs,strict_success_pct,pct_fully_converged,mean_repl_conv,pct_all_eig_negative
+B2_premium_efficient,100,90.0,90.0,0.9,90.0
