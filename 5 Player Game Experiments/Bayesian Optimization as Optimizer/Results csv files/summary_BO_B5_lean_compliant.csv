@@ -1,0 +1,2 @@
+profile,n_runs,strict_success_pct,pct_fully_converged,mean_repl_conv,pct_all_eig_negative
+B5_lean_compliant,100,70.0,70.0,0.7053,70.0
