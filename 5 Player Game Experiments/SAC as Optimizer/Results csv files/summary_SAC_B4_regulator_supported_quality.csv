@@ -1,0 +1,2 @@
+profile,n_runs,strict_success_pct,pct_fully_converged,mean_repl_conv,pct_all_eig_negative
+B4_regulator_supported_quality,100,93.0,93.0,0.9397,94.0
